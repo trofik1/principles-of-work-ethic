@@ -1,7 +1,7 @@
 # Principles of Work Ethic
 
 Eleven plain working rules for people, and for AI assistants working alongside them.
-Nothing new here. These are habits that save time once they become automatic.
+
 
 Skills are specific procedures for specific tasks, and they come and go. The lasting value is in the
 general principles and rules that form out of them. See rule 11 for how that works.
